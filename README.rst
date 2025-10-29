@@ -1,17 +1,17 @@
 A Phase-Field Approach to Fatigue Analysis: Bridging Theory and Simulation
 ==========================================================================
 
-.. image:: https://raw.githubusercontent.com/CastillonMiguel/DocTester/main/docs/source/_static/logo_name.png
-   :target: https://doctesterdoc.readthedocs.io/en/latest/
+.. image:: https://raw.githubusercontent.com/CastillonMiguel/A-Phase-Field-Approach-to-Fatigue-Analysis-Bridging-Theory-and-Simulation/main/docs/source/_static/logo_name.png
+   :target: https://phasefieldfatigue.readthedocs.io/en/latest/
    :alt: A Phase-Field Approach to Fatigue Analysis: Bridging Theory and Simulation
 
-.. image:: https://readthedocs.org/projects/DocTesterDoc/badge/?version=latest
-    :target: https://doctesterdoc.readthedocs.io/en/latest/
+.. image:: https://readthedocs.org/projects/PhaseFieldFatigue/badge/?version=latest
+    :target: https://phasefieldfatigue.readthedocs.io/en/latest/
     :alt: Documentation Status
 
 Repository code
 ---------------
-The code in this repository is the same version used for the paper. For a more visual and faster experience we recommend using the generated documentation, which provides interactive views and graphs: `Documentation and interactive views <https://doctesterdoc.readthedocs.io/en/latest/>`_.
+The code in this repository is the same version used for the paper. For a more visual and faster experience we recommend using the generated documentation, which provides interactive views and graphs: `Documentation and interactive views <https://phasefieldfatigue.readthedocs.io/en/latest/>`_.
 
 Overview
 --------
