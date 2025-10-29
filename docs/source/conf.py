@@ -19,7 +19,7 @@ import sys
 # sys.path.insert(0, os.path.abspath('../../src/phasefieldx'))
 
 # -- Project information -----------------------------------------------------
-project = "A Phase-Field Approach to Fracture and Fatigue Analysis: Bridging Theory and Simulation"
+project = "A Phase-Field Approach to Fatigue Analysis: Bridging Theory and Simulation"
 copyright = '2025, Miguel Castillón'
 author = 'Miguel Castillón'
 
@@ -245,7 +245,7 @@ html_show_sourcelink = False
 html_theme_options = {
     "external_links": [],
     "footer_start": ["sphinx-version"],
-    "github_url": "https://github.com/CastillonMiguel/A-Phase-Field-Approach-to-Fracture-and-Fatigue-Analysis-Bridging-Theory-and-Simulation",
+    "github_url": "https://github.com/CastillonMiguel/A-Phase-Field-Approach-to-Fatigue-Analysis-Bridging-Theory-and-Simulation",
     "navbar_align": "left",
     'icon_links': [
         {
