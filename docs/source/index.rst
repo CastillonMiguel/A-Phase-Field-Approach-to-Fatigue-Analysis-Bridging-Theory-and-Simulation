@@ -40,17 +40,20 @@ This repository is designed to ensure complete reproducibility of the results by
 
 .. code:: latex
 
-    @misc{castillon2025,
-        title={A Phase-Field Approach to Fracture and Fatigue Analysis: Bridging Theory and Simulation}, 
-        author={M. Castillón and I. Romero and J. Segurado},
-        year={2025},
-        eprint={2509.08939},
-        archivePrefix={arXiv},
-        primaryClass={cond-mat.mtrl-sci},
-        url={https://arxiv.org/abs/2509.08939}, 
+    @article{castillon2025,
+        title = {A phase-field approach to fatigue analysis: Bridging theory and simulation},
+        journal = {International Journal of Fatigue},
+        volume = {205},
+        pages = {109397},
+        year = {2026},
+        issn = {0142-1123},
+        doi = {https://doi.org/10.1016/j.ijfatigue.2025.109397},
+        url = {https://www.sciencedirect.com/science/article/pii/S0142112325005948},
+        author = {M. Castillón and I. Romero and J. Segurado},
+        keywords = {Phase-field fracture, Fatigue, Crack-growth control, Crack propagation, Paris’ law},
     }
 
-All the files are provided in the following `GitHub Repository <https://github.com/CastillonMiguel/A-Phase-Field-Approach-to-Fracture-and-Fatigue-Analysis-Bridging-Theory-and-Simulation>`_
+All the files are provided in the following `GitHub Repository <https://github.com/CastillonMiguel/A-Phase-Field-Approach-to-Fatigue-Analysis-Bridging-Theory-and-Simulation>`_
 
 Since the simulations were conducted using the open-source **PhaseFieldX** :footcite:t:`code_phasefieldx` library, the implementation details of the models can be found in the **PhaseFieldX** documentation and source code.
 
