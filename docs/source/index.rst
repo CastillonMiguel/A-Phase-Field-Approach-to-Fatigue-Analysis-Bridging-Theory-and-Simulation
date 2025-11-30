@@ -12,7 +12,7 @@
         A Phase-Field Approach to Fatigue Analysis: Bridging Theory and Simulation
 
 
-This repository provides all simulation files, scripts, and supplementary data referenced in the paper :footcite:t:`Castillon2025_arxiv`.
+This repository provides all simulation files, scripts, and supplementary data referenced in the paper :footcite:t:`Castillon2025`.
 
 .. raw:: html
 
