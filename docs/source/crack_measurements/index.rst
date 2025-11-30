@@ -7,7 +7,7 @@ The crack area obtained by directly integrating the $\gamma(\phi)$ function syst
 Crack Length Measurement via Image Post-Processing and Skeletonization Algorithms
 ---------------------------------------------------------------------------------
 
-The automated crack-length measurement workflow presented in :footcite:t:`Castillon2025_arxiv` is implemented using image post-processing and the skeletonization routines from scikit-image (:footcite:t:`code_skeleton_algorithm`, :footcite:t:`code_scikit_image`). The pipeline converts the phase-field variable into a binary mask, applies `skeletonize` to obtain a single-pixel-wide centerline, extracts pixel coordinates and maps them to physical domain coordinates, and fits a smooth spline to the centerline for accurate length measurement. The skeletonization algorithm iteratively thins object boundaries until the medial axis (the single-pixel-wide centerline) remains.
+The automated crack-length measurement workflow presented in :footcite:t:`Castillon2025` is implemented using image post-processing and the skeletonization routines from scikit-image (:footcite:t:`code_skeleton_algorithm`, :footcite:t:`code_scikit_image`). The pipeline converts the phase-field variable into a binary mask, applies `skeletonize` to obtain a single-pixel-wide centerline, extracts pixel coordinates and maps them to physical domain coordinates, and fits a smooth spline to the centerline for accurate length measurement. The skeletonization algorithm iteratively thins object boundaries until the medial axis (the single-pixel-wide centerline) remains.
 
 Below are the results of the simulations, for which we have images showing the crack evolution.
 

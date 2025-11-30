@@ -250,7 +250,7 @@ html_theme_options = {
     'icon_links': [
         {
             'name': 'The Paper',
-            'url': 'https://arxiv.org/abs/2509.08939',
+            'url': 'https://www.sciencedirect.com/science/article/pii/S0142112325005948',
             'icon': 'fa fa-file-text fa-fw',
         },
     ],
