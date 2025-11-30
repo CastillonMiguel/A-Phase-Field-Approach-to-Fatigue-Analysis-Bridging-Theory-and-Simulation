@@ -11,7 +11,7 @@ A Phase-Field Approach to Fatigue Analysis: Bridging Theory and Simulation
 
 Repository code
 ---------------
-The code in this repository is the same version used for the paper `https://doi.org/10.21105/joss.07307 <https://doi.org/10.21105/joss.07307>`_. For a more visual and faster experience we recommend using the generated documentation, which provides interactive views and graphs: `Documentation and interactive views <https://phasefieldfatigue.readthedocs.io/en/latest/>`_.
+The code in this repository is the same version used for the paper `https://doi.org/10.1016/j.ijfatigue.2025.109397 <https://doi.org/10.1016/j.ijfatigue.2025.109397>`_. For a more visual and faster experience we recommend using the generated documentation, which provides interactive views and graphs: `Documentation and interactive views <https://phasefieldfatigue.readthedocs.io/en/latest/>`_.
 
 Overview
 --------
